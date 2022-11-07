@@ -1,0 +1,9 @@
+{
+    "DB":{
+        "ip":"198.251.66.112",
+        "port":3306,
+        "usr":"beto",
+        "pwd":"TmpTmp",
+        "basedatos":"TEST_YO"
+    }
+}
