@@ -5,6 +5,7 @@ Se requiere del servicio: /credit/search_user
 Servicio: POST: /statistics
 	- Requiere de un token (Autoenthication Beaer token)
 	- Antes de ejecutar el servicio valida que tenga cceso.
+	- Archivo de configuracion configDB.json, configHttp.json y configMsSarchUsr.json
 
 Responde en caso de exito 200 y un json:
  {
